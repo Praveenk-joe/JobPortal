@@ -590,6 +590,9 @@ top: 280px;
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
+          position: relative;
+    top: 10px;
+
   }
   
   .tags {
